@@ -84,3 +84,5 @@ const object1 = { a: 1, b: 2, c: 3 };
 for (let property in object1) {
   console.log(`${property}: ${object1[property]}`);
 }
+
+console.log(object1);

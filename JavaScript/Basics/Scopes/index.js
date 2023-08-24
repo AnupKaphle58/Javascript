@@ -17,7 +17,7 @@ test();
 
 // Scope pollution
 // Scope pollution is when too many variables exist in a namespace or variable names are reused.
-// Scope pollution makes it difficult to keep track of our different variables and leds to bugs or errors
+// Scope pollution makes it difficult to keep track of our different variables and leads to bugs or errors
 
 let num = 50;
 
